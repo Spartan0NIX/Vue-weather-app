@@ -18,4 +18,5 @@ Following tutorial from Tyler Potts => https://youtu.be/JLc-hWsPTUY
 Goals :
 => Learn and discover vue.js syntax 
 => Work for the first time on a project using github
+
 /*------------------------------------------------------------------------*/
